@@ -1,9 +1,28 @@
-.forcasts div{
-    min-height: 220px;
-}
-
 img{
     max-width: 70px;
     padding: 0;
     margin: 0;
+}
+
+.forcasts div{
+    min-height: 220px;
+}
+
+#currentInfo{
+    line-height: 33px;
+}
+
+.city-search-item{
+    cursor: pointer;
+    transition: 0.2s all;
+    background-color: #d3d0d0;
+}
+.city-search-item:hover{
+    background-color: #b4b4b4;
+    color: #fff;
+}
+
+#searchHist{
+    overflow-y: auto;
+    max-height: 50%;
 }
