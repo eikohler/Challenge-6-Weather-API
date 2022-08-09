@@ -8,4 +8,4 @@ data for that city as well. This was made using html, css, javascript, jquery an
 **Note you may have to clear your local storage when first viewing the site
 
 ![Screen Shot](screenshot.JPG?raw=true "Screen Shot")
-https://eikohler.github.io/Challenge-6-Weather-API/
+https://eikohler.github.io/Weather-Application/
