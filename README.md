@@ -1,4 +1,4 @@
-# Weather APP
+# Weather App
 I was tasked with creating a weather app where users can search by city name and view
 the weather status for that city. The data for the weather is being pulled from the open weather api
 and all searched city entries that can be found from that api upon search are stored locally to be pulled
